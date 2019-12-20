@@ -1,0 +1,23 @@
+{
+  "name": "mbr-test",
+  "version": "1.0.0",
+  "description": "Simple test utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadBrozzeR/mbr-test.git"
+  },
+  "keywords": [
+    "test",
+    "tests"
+  ],
+  "author": "MadBrozzeR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadBrozzeR/mbr-test/issues"
+  },
+  "homepage": "https://github.com/MadBrozzeR/mbr-test#readme"
+}
