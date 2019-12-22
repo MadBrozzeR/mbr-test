@@ -1,4 +1,4 @@
 module.exports = {
   test: require('./mbr-test.js'),
-  server: require('./server.js');
+  Server: require('./server.js');
 };
